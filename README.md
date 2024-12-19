@@ -1,2 +1,2 @@
 # Calculator
-Simple calc
+Simple calc using js
